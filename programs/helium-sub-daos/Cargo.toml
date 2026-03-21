@@ -29,7 +29,7 @@ shared-utils = { workspace = true }
 circuit-breaker = { workspace = true }
 treasury-management = { path = "../treasury-management", features = ["cpi"] }
 
-time = "0.3.17"
+time = "0.3.44"
 solana-security-txt = { workspace = true }
 default-env = { workspace = true }
 
