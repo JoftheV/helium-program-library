@@ -27,7 +27,7 @@ serde = { version = "*", features = ["derive"] }
 serde_json = "*"
 json = "*"
 lazy_static = "1"
-rand = "0.8"
+rand = "0.9"
 sodiumoxide = "~0.2"
 solana-account-decoder = "1.16.13"
 solana-client = "1.16.13"
